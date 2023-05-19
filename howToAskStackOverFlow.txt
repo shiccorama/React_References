@@ -1,0 +1,72 @@
+One — Proper and Detailed Title
+The title must be correct. Don’t hesitate to make it a long title. You are not trying to write some catchy, social media marketing blog post.
+
+This is a problem that you are facing, get as descriptive as you want.
+
+Two — Mention and link the other SO questions.
+These are questions that you that you have already explored.
+
+Simply copy paste the SO questions that you have already looked at. If possible, add tiny notes about why those questions and existing answers helped you, or not helped you. Further, explain why those are not the questions and answers you are looking for.
+
+This ensures that your question does not get flagged as a ‘duplicate’ question.
+
+Three — Include as much code as possible.
+Show. Don’t Tell.
+
+If you are using anything related to JavaScript (or any programming language that can run in a browser based IDE) up the code you are working on an online editor like codepen or code sandbox or something like that. Link the codepen (and similar online work spaces) to your question.
+
+Then, put code snippets as you write and explain your question. Remember the old mantra of ‘show, don’t’ just tell’.
+
+Explain your question. Then, put some code. Continue explaining your problem. Put more code. Repeat this.
+
+link or embed GitHub gists also, if that feels better to you.
+
+Just like the title, don’t hesitate to make your question long and detailed. You are not running any kind of ‘shortest length’ question competition.
+
+Four — Learn Markdown
+You are not a developer if you are not already using markdown.
+
+You see, SO uses markdown, the same thing you will find on README.MD files on GitHub. Learning markdown is easy enough, but it requires you to make an effort just like everything else in life.
+
+SO shows a preview as you write your question. As you type more, the page you writing the question gets longer. Remember to scroll down, and come back up as you type. See how the question looks.
+
+Put the code in code blocks.
+Use block letters for headings, if it’s a really long question.
+Use italicized words to emphasize things.
+Five — Respond in Comments
+Almost immediately, the community will start helping you.
+
+Keep an eye on the comments, and respond in short but essential sentences. Don’t get angry at some of the comments which may appear rude.
+
+If someone posts an answer, and it’s not what you are looking for, don’t be rude. Either ignore the answer, or add a comment that, the answer makes no sense or is not suitable. If possible, explain why you felt the answer was not good enough.
+
+Remember to be polite.
+
+Six — Be Patient
+Asking questions on a mature community like SO is like dating. At first, you will falter and make a ton of mistakes. Irritation is part of the process. You might that you are constantly gaining and losing SO points as people keep down-voting or up-voting you.
+
+Don’t get angry.
+
+Remember that SO is a free community, and you are not paying anyone for the answered. Most of the folks who come here are just like you. Take help, and perhaps someday, give help.
+
+Seven — Mark Answer and Vote
+When someone is helping you, they may be doing it for several reasons. They are just showing off with their programming skills. They are just some nice guys trying to help, as is their nature.
+
+Most of the time, the point system of SO keeps people motivated. So, remember to mark the answer that helped. Remember to up-vote if something helped you. Remember to down-vote as well, if something is really terrible. Don’t feel guilty about down-voting something.
+
+The world is not all roses. It has thorns too.
+
+Eight — Sample Questions
+Here are some of my top SO questions, that have a lot of views and many up-votes. Look at them and try to format your questions in a similar style, until you get a hang of things.
+
+https://stackoverflow.com/questions/51943550/visual-studio-code-looks-blurry
+https://stackoverflow.com/questions/58686712/onmozfullscreenchange-warning-in-firefox-not-using-react
+https://stackoverflow.com/questions/67791756/react-hook-form-error-type-useformregisterformdata-is-not-assignable-to-ty
+The above questions are my own questions, and have at least 5K views. So, they are good questions, for you to use as reference.
+
+Final Note
+Things like asking questions the right way, boils down to following some basic guidelines. Over time, by trial and error alone, you will learn to ask the proper questions.
+
+More importantly, learning how to ask questions on SO is a lifelong investment. I have earned thousands of dollars, thanks to the information available on SO. Being able to use this site, is, an essential developer skill.
+
+I work as a full time freelance coding tutor. Hire me at UpWork or Fiverr or Stack Overflow. My personal website is here. Find more of my art at Behance and Unsplash. Also, I have a Podcast about everyday life. And, a 2nd Podcast, where I talk about freelancing
